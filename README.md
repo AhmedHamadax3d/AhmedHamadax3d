@@ -7,9 +7,9 @@
   </h1>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Role-Back--End%20Developer-3b82f6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-3b82f6?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Field-Computer%20Science-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Django%20%7C%20Backend-181717?style=for-the-badge" alt="Focus: Django | Backend" />
+    <img src="https://img.shields.io/badge/Focus-Django%20%7C%20Backend-181717?style=for-the-badge" alt="Focus: Django | Backend" />
   </p>
 
 </div>
