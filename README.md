@@ -56,8 +56,7 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
  <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/AhmedHamadax3d)
-
+[![My GitHub](https://img.shields.io/badge/My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedHamadax3d)
 </div>
 <div align="center">
 
