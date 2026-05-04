@@ -62,7 +62,7 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 ### 📬 Connect With Me  
 
-<a href="https://linkedin.com/in/ahmed-elgohary7" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-hamada-3749392a6/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ahmadshazly99@gmail.com" target="_blank">
