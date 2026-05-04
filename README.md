@@ -51,8 +51,8 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 ### 📈 GitHub Performance  
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedHamadax3d&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamadax3d&theme=react&hide_border=true&background=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedHamadax3d&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamadax3d&theme=react&hide_border=true&background=0D1117&cache_seconds=1800" width="49%" />
 
  <br><br>
 
