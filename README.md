@@ -54,11 +54,12 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedHamadax3d&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamadax3d&theme=react&hide_border=true&background=0D1117" width="49%" />
 
-<!-- <br><br>
+ <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/AhmedHamadax3d) -->
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github)](https://github.com/AhmedHamadax3d)
 
 </div>
+<div align="center">
 
 ### 📬 Connect With Me  
 
